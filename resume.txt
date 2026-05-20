@@ -1,0 +1,89 @@
+=== SHAXSIY MA'LUMOT ===
+Ism: Muhammadaziz Ma'mirjonov
+Kasb: Front-End Developer & IT O'qituvchi
+Joylashuv: Andijon viloyati, O'zbekiston
+Telefon: +998 (94) 760 00 35
+Email: mamirjonovmuhammadaziz6@gmail.com
+Telegram: @mamirjonov_official
+
+=== QISQACHA ===
+Men JavaScript asosida zamonaviy va responsiv web-saytlar yaratadigan front-end dasturchiman. React, HTML, CSS va Git bilan amaliy loyihalar qilganman. Figma'dan kodga sifatli dizayn chiqaraman. O'rganishga ochiq, jamoada ishlay oladigan va real loyihalarda tajriba oshirishga tayyor developperman. 2026 yilda o'quvchilarga frontend o'rgatish va Malaysia IT amaliyot dasturida ishtirok etish maqsadidaman.
+
+=== TEXNIK KO'NIKMALAR ===
+- HTML5 / CSS3 / SCSS
+- JavaScript (ES6+)
+- React JS
+- Responsive Web Design
+- Git & GitHub
+- REST API (fetch, JSON)
+- Bootstrap / Tailwind CSS
+- Figma → Frontend (UI to Code)
+- Adobe Photoshop & Illustrator
+- GitHub Pages / Netlify (Deploy)
+
+=== TAJRIBA ===
+
+1. Front-End Developer — Amaliy Mashg'ulot (Individual)
+   Yil: 2025
+   Mentor: Abduvahob
+   - Real mijozlar uchun amaliy loyihalar ustida ishlagan
+   - JavaScript asosida interaktiv funksiyalar yaratgan
+   - Responsive (mobilga mos) UI'lar ishlab chiqqan
+   - Git va GitHub orqali versiya nazoratini qo'llagan
+   - Best practices asosida toza va optimizatsiya qilingan kod yozgan
+
+2. Freelance / Shaxsiy Loyihalar — Front-End Developer
+   Yil: 2024 – 2026
+   - HTML, CSS, JavaScript orqali landing page'lar yaratgan
+   - Figma dizaynlarini kodga aylantirgan
+   - API bilan ishlash bo'yicha amaliy tajriba (fetch, JSON)
+   - Portfolio sayti, English Test web-app va kichik web loyihalar
+   - GitHub Pages / Netlify orqali deploy qilgan
+
+3. Graphic Designer — Freelance
+   Yil: 2022 – 2024
+   - Logo, branding, banner, social media dizayn
+   - Adobe Photoshop va Illustrator bilan professional ishlagan
+   - Mijozlar uchun vizual konseptlar yaratgan
+   - UI dizayn bo'yicha boshlang'ich tajriba orttirgan
+
+=== TA'LIM ===
+
+1. Front-end Development (React / JavaScript)
+   2024 – 2025 | Andijon IT Academy & New Look IT Academy
+   Frontend asoslari, JavaScript, Responsive Design, Git/GitHub, real loyihalar
+
+2. Front-end Amaliy Mashg'ulot (Individual)
+   2025 | Mentor: Abduvahob
+   Amaliy loyihalar, JS logika, real mijozlar uchun ish tajribasi
+
+3. Graphic Design — Individual Mentorship
+   2023 | Mentor: Gaziyev Bobirmirzo
+   Branding, UI Design, Adobe Tools
+
+4. Graphic Design Course
+   2022 | New Look IT Academy
+   Adobe Photoshop, Illustrator, dizayn asoslari
+
+=== O'QUV MARKAZ & MALAYSIA DASTURI ===
+- Frontend yo'nalishida o'quvchilarga dars beraman
+- O'quv markazimizda real muhit va amaliy loyihalar birinchi o'rinda
+- Malaysia IT kompaniyalariga amaliyot dasturi mavjud
+- O'quvchilar real IT muhitda tajriba orttiradi
+- Kursdan so'ng Malaysia'da haqiqiy IT kompaniyada amaliyot imkoniyati
+
+=== MAQSAD (2026) ===
+- Frontend o'qituvchi sifatida ko'proq o'quvchilarga sifatli ta'lim berish
+- Malaysia IT amaliyot dasturini kengaytirish
+- React va zamonaviy texnologiyalar bo'yicha chuqur bilim olish
+- O'quvchilarni xalqaro darajadagi developerlarga tayyorlash
+
+=== TILLAR ===
+- O'zbek tili: Ona tili
+- Rus tili: O'rta daraja
+- Ingliz tili: A2-B1 (rivojlantirilmoqda)
+
+=== IJTIMOIY TARMOQLAR ===
+Telegram: @mamirjonov_official
+GitHub: (github username qo'sh)
+Portfolio: (portfolio link qo'sh)
