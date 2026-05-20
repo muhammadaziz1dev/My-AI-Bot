@@ -99,3 +99,16 @@ bot.on("message", async (msg) => {
 });
 
 console.log("✅ Bot ishga tushdi!");
+
+
+// Render uchun mini server
+import http from "http";
+
+const server = http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end("Bot ishlayapti!");
+});
+
+server.listen(process.env.PORT || 3000, () => {
+  console.log("✅ Server ishga tushdi!");
+});
